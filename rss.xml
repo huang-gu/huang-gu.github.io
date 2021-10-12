@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>完美世界</title>
+        <title>理想乡</title>
         <subtitle></subtitle>
         <icon>https://lgzhou.cn/images/favicon.ico</icon>
         <link>https://lgzhou.cn</link>
         <author>
           <name>周丽刚</name>
         </author>
-        <description>描述12345</description>
+        <description>测试工程师</description>
         <language>zh-CN</language>
         <pubDate>Thu, 13 Aug 2020 21:45:48 +0800</pubDate>
         <lastBuildDate>Thu, 13 Aug 2020 21:45:48 +0800</lastBuildDate>
