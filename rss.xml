@@ -64,5 +64,38 @@
 &lt;/ul&gt;
 &lt;figure class=&#34;highlight python&#34;&gt;&lt;figcaption data-lang=&#34;python&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt; requests&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;import&lt;/span&gt; jsonpath&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;url &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;https://ditu.amap.com/service/regeo?longitude=121.04925573429551&amp;amp;latitude=31.315590522490712&#34;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;resp &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; requests&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;get&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;url&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;status &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; jsonpath&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;jsonpath&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;resp&lt;span class=&#34;token punctuation&#34;&gt;.&lt;/span&gt;json&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#39;$.status&#39;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string-interpolation&#34;&gt;&lt;span class=&#34;token string&#34;&gt;f&#34;从响应值里面获取的status是&lt;/span&gt;&lt;span class=&#34;token interpolation&#34;&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;status&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt; ]]></description>
         </item>
+        <item>
+            <guid isPermalink="true">https://lgzhou.cn/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</guid>
+            <title>日本語テスト</title>
+            <link>https://lgzhou.cn/%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%83%86%E3%82%B9%E3%83%88/</link>
+            <pubDate>Tue, 24 Dec 2013 23:33:26 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;This is a Japanese test post.&lt;/p&gt;
+&lt;p&gt;私は昨日ついにその助力家というのの上よりするたなけれ。&lt;/p&gt;
+&lt;p&gt;最も今をお話団はちょうどこの前後なかろでくらいに困りがいるたをは帰着考えたなかって、そうにもするでうたらない。&lt;/p&gt;
+&lt;p&gt;がたを知っないはずも同時に九月をいよいよたありた。&lt;/p&gt;
+&lt;p&gt;もっと槙さんにぼんやり金少し説明にえた自分大した人私か影響にというお関係たうませないが、この次第も私か兄具合に使うて、槙さんののに当人のあなたにさぞご意味と行くて私個人が小尊敬を聴いように同時に同反抗に集っだうて、いよいよまず相当へあっうからいだ事をしでなけれ。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;それでそれでもご時日をしはずはたったいやと突き抜けるますて、その元がは行ったてという獄を尽すていけですた。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;この中道具の日その学校はあなたごろがすまなりかとネルソンさんの考えるですん、辺の事実ないというご盲従ありたですと、爺さんのためが薬缶が結果までの箸の当時してならて、多少の十月にためからそういう上からとにかくしましないと触れべきものたで、ないうですと多少お人達したのでたた。&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2xpcHN1bS5zdWd1dHN1a2FlcnUuanAvaW5kZXguY2dp&#34;&gt;すぐ使えるダミーテキスト - 日本語 Lorem ipsum&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">https://lgzhou.cn/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</guid>
+            <title>中文測試</title>
+            <link>https://lgzhou.cn/%E4%B8%AD%E6%96%87%E6%B8%AC%E8%A9%A6/</link>
+            <pubDate>Tue, 24 Dec 2013 23:31:30 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;This is a Chinese test post.&lt;/p&gt;
+&lt;p&gt;善我王上魚、產生資西員合兒臉趣論。畫衣生這著爸毛親可時，安程幾？合學作。觀經而作建。都非子作這！法如言子你關！手師也。&lt;/p&gt;
+&lt;p&gt;以也座論頭室業放。要車時地變此親不老高小是統習直麼調未，行年香一？&lt;/p&gt;
+&lt;p&gt;就竟在，是我童示讓利分和異種百路關母信過明驗有個歷洋中前合著區亮風值新底車有正結，進快保的行戰從：弟除文辦條國備當來際年每小腳識世可的的外的廣下歌洲保輪市果底天影；全氣具些回童但倒影發狀在示，數上學大法很，如要我…… 月品大供這起服滿老？應學傳者國：山式排只不之然清同關；細車是！停屋常間又，資畫領生，相們制在？公別的人寫教資夠。資再我我！只臉夫藝量不路政吃息緊回力之；兒足灣電空時局我怎初安。意今一子區首者微陸現際安除發連由子由而走學體區園我車當會，經時取頭，嚴了新科同？很夫營動通打，出和導一樂，查旅他。坐是收外子發物北看蘭戰坐車身做可來。道就學務。&lt;/p&gt;
+&lt;p&gt;國新故。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;工步他始能詩的，裝進分星海演意學值例道…… 於財型目古香亮自和這乎？化經溫詩。只賽嚴大一主價世哥受的沒有中年即病行金拉麼河。主小路了種就小為廣不？&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;em&gt;From &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5yaWNoeWxpLmNvbS90b29sL2xvcmVtaXBzdW0v&#34;&gt;亂數假文產生器 - Chinese Lorem Ipsum&lt;/span&gt;&lt;/em&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
     </channel>
 </rss>
